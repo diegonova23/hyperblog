@@ -9,3 +9,4 @@ Un blog increíble para el curso de [Git y GitHub](https://platzi.com/cursos/git
 * Trucos muy locos del profesor.
 
 Esto solo **ha sido un ejemplo** de como podría quedar el _README.md_ de nuestro repositorio para ampliar más sobre que se trata nuestro proyecto.
+
