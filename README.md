@@ -1,5 +1,5 @@
 # Hyperblog
-Un blog increíble para el curos de [Git y GitHub](https://platzi.com/cursos/github) de [Platzi](https://platzi.com/).
+Un blog increíble para el curso de [Git y GitHub](https://platzi.com/cursos/github) de [Platzi](https://platzi.com/).
 > Este curso es un complemento más para escalar la ruta de desarrollo web y administrar bien el mismo con versiones al trabajar en equipo.
 
 ## En este curso se ha visto cosas como:
